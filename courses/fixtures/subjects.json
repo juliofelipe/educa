@@ -3,8 +3,8 @@
   "model": "courses.subject",
   "pk": 1,
   "fields": {
-    "title": "Matematics",
-    "slug": "matematics"
+    "title": "Mathematics",
+    "slug": "mathematics"
   }
 },
 {
